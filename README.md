@@ -42,14 +42,9 @@ You can find the files attached to this repository
 24. ![Screenshot from 2022-11-08 16-57-17](https://user-images.githubusercontent.com/117246749/200685237-ba92c011-decc-42a2-8f82-0a7ae2e939bb.png)
 25. ![Screenshot from 2022-11-08 17-01-11](https://user-images.githubusercontent.com/117246749/200687500-c4a2a39b-978f-484e-8ce2-802bc2a6d746.png)
 26. ![Screenshot from 2022-11-08 17-01-20](https://user-images.githubusercontent.com/117246749/200687504-e60fb540-2d2f-49d8-b07d-74d61ed30d7c.png)
-
-
-
-
-
-
-
-
+27. ![Screenshot from 2022-11-08 17-01-25](https://user-images.githubusercontent.com/117246749/200687680-2096790e-0b2e-4ac6-b44a-8cea729c90dd.png)
+28. ![Screenshot from 2022-11-08 17-01-31](https://user-images.githubusercontent.com/117246749/200687707-e0ebb465-523d-4d79-823b-01c5838982d7.png)
+29. ![Screenshot from 2022-11-08 17-01-39](https://user-images.githubusercontent.com/117246749/200687734-32a8ddbb-b8e6-48eb-a9e0-1918851e7db9.png)
 
 
 
